@@ -87,7 +87,7 @@
 
 ###
 
-<img src="https://github.com/matinshaikh31/matinshaikh31/edit/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img width="80%"  height="100%" src="https://raw.githubusercontent.com/matinshaikh31/matinshaikh31/output/snake.svg" alt="Snake animation" />
 
 ###
 
