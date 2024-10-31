@@ -87,7 +87,7 @@
 
 ###
 
-<img width="80%"  height="100%" src="https://raw.githubusercontent.com/matinshaikh31/matinshaikh31/output/snake.svg" alt="Snake animation" />
+<img width="70%" align="left"  height="100%" src="https://raw.githubusercontent.com/matinshaikh31/matinshaikh31/output/snake.svg" alt="Snake animation" />
 
 ###
 
